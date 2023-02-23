@@ -1,5 +1,5 @@
-# Smoky venta de vapeadores
-
+# Smoky 
+ e-commerse de vapeadores, respuestos y líquidos
 ## Levantamiento de proyecto
 npm install 
 npm start
@@ -9,14 +9,12 @@ FRONT: https://smokyweb.vercel.app
 BACK: https://backsmoky.onrender.com
 
 ## Repositorio Github
-FRONT: https://github.com/Raulmoyano2970/smoky-challenge-front
-BACK: https://github.com/Raulmoyano2970/E-commerce_back
+FRONT: https://github.com/CarolinaPerez1992/smoky-front
+BACK: https://github.com/CarolinaPerez1992/smoky-back
 
 ## Usuario prueba
-USER: rocioduarte197@gmail.com 
+USER: carop@gmail.com 
 PASSWORD: hola123
-
-start
 
 
 ## Librerias y frameworks
