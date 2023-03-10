@@ -39,7 +39,7 @@ export default function Footer() {
                         </div >
                         <div className='div-icon'>
                             <img className='img-icon' src="img/marcador-de-posicion.png" alt="" />
-                            <p className='pt'>Adress: Bogotá, Colombia</p>
+                            <p className='pt'>Adress: Mendoza, Argentina</p>
                         </div>
                         <div className='div-icon'>
                             <img className='img-icon' src="img/email.png" alt="" />
@@ -49,9 +49,7 @@ export default function Footer() {
 
                     <div className="text-location">
                         <h3 className="text-white">Location:</h3>
-                        <iframe class="map-img"
-                            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3977.1004259840356!2d-74.13734962540892!3d4.575979886435537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sco!4v1671167599751!5m2!1ses!2sco"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26804.487639090363!2d-68.87602871481315!3d-32.883333980142865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967e093ec45179bf%3A0x205a78f6d20efa3a!2sMendoza%2C%20Capital%2C%20Mendoza!5e0!3m2!1ses!2sar!4v1678472556289!5m2!1ses!2sar" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <img class="payment-container" src="https://cdn.shopify.com/s/files/1/0166/9493/5652/files/Payment_6ca1a29f-0fb4-4fbe-a624-35dfe7ae119f.png?v=1663159128&width=720" alt="payment photo" />
                     </div>
                 </div>

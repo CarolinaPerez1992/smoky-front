@@ -1,6 +1,6 @@
 # Smoky 
- e-commerse de vapeadores, respuestos y líquidos
-## Levantamiento de proyecto
+ e-commerse of vapers, respuestos and e-liquids
+## run the project
 npm install 
 npm start
 
@@ -8,37 +8,37 @@ npm start
 FRONT: https://smokyweb.vercel.app
 BACK: https://backsmoky.onrender.com
 
-## Repositorio Github
+## Repository Github
 FRONT: https://github.com/CarolinaPerez1992/smoky-front
 BACK: https://github.com/CarolinaPerez1992/smoky-back
 
-## Usuario prueba
+## Test user
 USER: carop@gmail.com 
 PASSWORD: hola123
 
 
-## Librerias y frameworks
-   @emotion/react: "^11.10.5",
-    @emotion/styled: "^11.10.5",
-    @mui/icons-material: "^5.10.16",
-    @mui/material: "^5.10.17",
-    @reduxjs/toolkit: "^1.9.1",
-    @testing-library/jest-dom": "^5.16.5",
-    @testing-library/react: "^13.4.0",
-    @testing-library/user-event: "^13.5.0",
-    axios: "^1.2.1",
-    bootstrap: "^5.2.3",
-    install: "^0.13.0",
-    npm: "^9.2.0",
-    react: "^18.2.0",
-    react-awesome-reveal: "^4.1.0",
-    react-bootstrap: "^2.7.0",
-    react-dom: "^18.2.0",
-    react-redux: "^8.0.5",
-    react-router-dom: "^6.4.5",
-    react-scripts: "5.0.1",
-    sweetalert2: "^11.6.15",
-    web-vitals: "^2.1.4"
+## Librarys and frameworks
+emotion/react: "^11.10.5",
+emotion/styled: "^11.10.5",
+mui/icons-material: "^5.10.16",
+mui/material: "^5.10.17",
+reduxjs/toolkit: "^1.9.1",
+testing-library/jest-dom": "^5.16.5",
+testing-library/react: "^13.4.0",
+testing-library/user-event: "^13.5.0",
+axios: "^1.2.1",
+bootstrap: "^5.2.3",
+install: "^0.13.0",
+npm: "^9.2.0",
+react: "^18.2.0",
+react-awesome-reveal: "^4.1.0",
+react-bootstrap: "^2.7.0",
+react-dom: "^18.2.0",
+react-redux: "^8.0.5",
+react-router-dom: "^6.4.5",
+react-scripts: "5.0.1",
+sweetalert2: "^11.6.15",
+web-vitals: "^2.1.4"
 
 
 
