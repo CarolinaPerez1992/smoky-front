@@ -1,5 +1,5 @@
 # Smoky 
- e-commerse of vapers, respuestos and e-liquids
+ e-commerse of vapers, disposable, pen, pods and e-liquids
 ## run the project
 npm install 
 npm start
